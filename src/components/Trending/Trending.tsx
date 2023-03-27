@@ -5,17 +5,17 @@ const Trending = () => {
     {
       id: '123abc',
       name: 'shoes',
-      image: 'https://images.placeholders.dev/?width=100&height=50&text=Produto'
+      image: 'https://images.placeholders.dev/?width=100&height=50&text=Product'
     },
     {
       id: '123def',
       name: 'bags',
-      image: 'https://images.placeholders.dev/?width=100&height=50&text=Produto'
+      image: 'https://images.placeholders.dev/?width=100&height=50&text=Product'
     },
     {
       id: '123ghi',
       name: 'accessories',
-      image: 'https://images.placeholders.dev/?width=100&height=50&text=Produto'
+      image: 'https://images.placeholders.dev/?width=100&height=50&text=Product'
     }
   ]
 

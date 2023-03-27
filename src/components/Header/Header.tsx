@@ -4,10 +4,12 @@ import Link from 'next/link'
 const Header = () => {
   return (
     <header className="my-6 flex justify-between">
-      <img
-        src="https://images.placeholders.dev/?width=100&height=50&text=logo"
-        alt=""
-      />
+      <Link href={'/'}>
+        <img
+          src="https://images.placeholders.dev/?width=100&height=50&text=logo"
+          alt="Fake Store logo"
+        />
+      </Link>
       <nav className="flex items-center gap-x-5">
         <Image
           className="w-6"

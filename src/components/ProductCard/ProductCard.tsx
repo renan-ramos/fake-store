@@ -12,7 +12,7 @@ const ProductCard = ({ name, imageUrl, price }: ProductCardProps) => {
       <img
         className="aspect-square w-full"
         src={imageUrl}
-        alt={`imagem do produto ${name}`}
+        alt={`Image of the product ${name}`}
       />
     </div>
   )

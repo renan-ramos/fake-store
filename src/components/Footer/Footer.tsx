@@ -5,7 +5,7 @@ const Footer = () => {
       <nav>
         <ul className="flex gap-x-3">
           <li>Blog</li>
-          <li>Contato</li>
+          <li>Contact</li>
         </ul>
       </nav>
     </footer>
